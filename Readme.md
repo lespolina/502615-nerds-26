@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Полина Лесникова](https://up.htmlacademy.ru/htmlcss/26/user/502615).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Панасюк](https://htmlacademy.ru/profile/sasha_oldsport).
 
 ---
 
